@@ -25,4 +25,6 @@
 
 - MySQL
 
-
+つかれた
+kasagi aho
+atohatanonnda
