@@ -25,6 +25,7 @@
 
 - MySQL
 
-つかれた
-kasagi aho
-atohatanonnda
+## データベース設計
+
+- User
+- Shift
